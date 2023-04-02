@@ -292,7 +292,8 @@ header button:hover{
 
 
 .srv1 .col:first-child{
-    width: 350px;
+    width: 1000px;
+    height: 250px;
 }
 .srv1 .col:nth-child(2){
     width: 700px;
